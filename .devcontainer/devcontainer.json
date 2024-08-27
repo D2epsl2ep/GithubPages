@@ -22,9 +22,7 @@
         "stylelint.vscode-stylelint",
         "yzhang.markdown-all-in-one",
         // Git
-        "mhutchie.git-graph",
-        // translate
-        "intellsmi.comment-translate"
+        "mhutchie.git-graph"
       ]
     }
   }
