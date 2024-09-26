@@ -16,30 +16,30 @@ timezone:
 
 title: Ruins # the main title
 
-tagline: Unmanned Ruins # it will display as the subtitle
+tagline: Deep Sleep # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://unmannedruins.github.io"
+url: "https://d2epsl2ep.github.io"
 
 github:
-  username: Unmannedruins # change to your GitHub username
+  username: d2epsl2ep # change to your GitHub username
 
 twitter:
-  username: Unmannedruins # change to your Twitter username
+  username: d2epsl2ep # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Unmannedruins
-  email: Unmannedruins@gmail.com # change to your email address
+  name: D2epsl2ep
+  email: d2epsl2ep@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/Unmannedruins # change to your Twitter homepage
-    - https://github.com/Unmannedruins # change to your GitHub homepage
+    - https://twitter.com/d2epsl2ep # change to your Twitter homepage
+    - https://github.com/d2epsl2ep # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
